@@ -4,9 +4,6 @@ using namespace std;
 
 
 
-
-
-
 double add(double a, double b){
     double c = a+b;
     cout << "calling add from add.h" << endl;

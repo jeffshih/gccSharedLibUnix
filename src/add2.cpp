@@ -5,7 +5,7 @@
 
 
 
-    double add(double a, double b){
+    double add2(double a, double b){
     
     std::cout << "calling add from add2" << std::endl;
     double c = a+b;
