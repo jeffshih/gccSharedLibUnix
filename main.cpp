@@ -14,7 +14,6 @@ int main(int argc, char** argv){
 
         c = add(a,b);
         d = add2(a,b);
-        e = voo(2);
         std::cout << a << " + " << b << " = " << a+b << " and call addOne inside add = " << c << std::endl;
         std::cout << a << " + " << b << " = " << a+b << " and call addOne inside add2 = " << d  << std::endl;
 
